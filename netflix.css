@@ -1,0 +1,276 @@
+body {
+  background: rgb(96, 93, 93);
+}
+
+*{
+  font-family: ;
+}
+
+
+
+.pic1 {
+  width: 20%;
+
+}
+
+
+.button {
+  background-color: red;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.right {
+  float: right;
+  padding-right: 120px;
+  padding-top: 20px;
+}
+
+.left {
+  float: left;
+  padding-left: 120px;
+  padding-top: 20px;
+
+
+}
+
+
+.sec2 {
+  height: 600px;
+  background: black;
+  background-image: url(https://cdn.mos.cms.futurecdn.net/rDJegQJaCyGaYysj2g5XWY-1200-80.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+  background-size:cover;
+}
+
+.sec2txt {
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 15%;
+  font-size: 25px;
+}
+
+.button2{
+  padding-left: 60%;
+}
+
+.blk{
+padding-left: 40%;
+padding-top: ;
+
+}
+
+
+.sec3 {
+  display: flex;
+  justify-content: space-around;
+  height: 450px;
+  background: black;
+}
+
+.sec3txt {
+  color: white;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 40%;
+  padding-top: 5%;
+}
+
+.sec3txt h1 {
+  justify-content: center;
+  align-items: center;
+  font-size: 60px;
+}
+
+.sec3txt p {
+  font-size: 28px;
+}
+
+.sec3img {
+  width: 40%;
+}
+
+.sec3img img {
+  width: 80%;
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.sec4 {
+  display: flex;
+  justify-content: space-around;
+  height: 450px;
+  background: black;
+}
+
+.sec4txt {
+  color: white;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+}
+
+.sec4txt h1 {
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+.sec4txt p {
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.sec4img {
+  width: 40%;
+}
+
+.sec4img img {
+  width: 60%;
+  padding-top: 80px;
+  padding-left: 150px;
+
+}
+
+
+.sec5 {
+  display: flex;
+  justify-content: space-around;
+  height: 450px;
+  background: black;
+}
+
+.sec5txt {
+  color: white;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 40%;
+
+}
+
+.sec5txt h1 {
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+.sec5txt p {
+  font-size: 35px;
+}
+
+.sec5nothing {
+  width: 30%;
+}
+
+.sec6 {
+  display: flex;
+  justify-content: space-around;
+  height: 450px;
+  background: black;
+}
+
+.sec6txt {
+  color: white;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 45%;
+}
+
+.sec6txt h1 {
+  justify-content: center;
+  align-items: center;
+  font-size: 70px;
+}
+
+.sec6txt p {
+  font-size: 32px;
+}
+
+.sec6img {
+  width: 45%;
+  padding-top: 5%;
+}
+
+.sec6img img {
+  width: 80%;
+}
+
+
+.sec7 {
+  height: 900px;
+  background: black;
+}
+
+.sec7txt {
+  color: white;
+  justify-content: center;
+  display: flex;
+  font-size: 30px;
+
+}
+
+.block1 {
+  height: 70px;
+  width: 80%;
+  background: rgb(96, 93, 93);
+  display: flex;
+  justify-content: space-between;
+  margin-left: 10%;
+
+
+}
+
+.block1 i {
+  color: white;
+  padding-top: 20px;
+  padding-right: 20px;
+  font-size: 30px;
+}
+
+.sec7 p {
+  font-size: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.sec8{
+  background: black;
+  border: 2px solid yellow;
+  height: 400px;
+}
+
+.sec8 h1{
+  color: white;
+}
+
+.paras{
+  display: flex;
+  justify-content: center;
+}
+
+.para1{
+  border: 2px solid red;
+  width: 20%;
+  height: 150px;
+}
+
+.paras p{
+
+  color: white;
+}
